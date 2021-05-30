@@ -1,4 +1,4 @@
-# udacity-aws
+# Udacity-aws Scholarship Program
 Here I have provided answer of the question which was asked during application.
 
 ## 1. What do you hope to accomplish through this program?
