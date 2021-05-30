@@ -1,5 +1,5 @@
 # Udacity-AWS Machine Learning Scholarship Program
-Here I have provided answer of the question which was asked during application.
+Here I have provided answers of the question which was asked during application process.
 
 ## 1. What do you hope to accomplish through this program?
 
